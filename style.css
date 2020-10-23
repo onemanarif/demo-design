@@ -1,0 +1,50 @@
+.nav-item{
+    margin-right: 30px;
+    
+}
+.navbar-brand{
+    margin-left: 20px;
+}
+.bg{
+    padding: 60px;
+    background: rgb(68, 132, 148);
+    color: white;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.bg button{
+    margin-top: 30px;
+}
+.grid-text{
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 0px;
+    width: 50%;
+}
+
+.banner{
+    padding: 150px;
+    color: white;
+    background: url(images/img-home.jpg);
+    background-size: cover;
+    margin-bottom: 50px;
+}
+.midlText{
+    margin-bottom: 50px;
+}
+.cardarea{
+    margin-top: 80px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid lightgray;
+    
+}
+.slider{
+    margin-bottom: 80px;
+}
+.logo{
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
+.footer{
+    margin-bottom: 20px;
+}
